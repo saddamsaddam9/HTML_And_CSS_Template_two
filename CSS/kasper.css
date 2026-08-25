@@ -159,7 +159,7 @@ header nav ul li a {
   padding: 40px 10px;
   font-size: 14px;
   position: relative;
-  transition: var(--mainTransition, 0.3s);
+  transition: var(--main-transtion, 0.3s);
 }
 header nav ul li a.active,
 header nav ul li a:hover {
