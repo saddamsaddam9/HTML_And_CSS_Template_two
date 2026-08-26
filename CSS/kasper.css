@@ -821,6 +821,7 @@ header nav .form i {
   text-decoration: none;
   border: 1px solid var(--main-color);
   width: fit-content;
+  color: var(--main-color);
   /* transition-delay: var(--main-transtion); */
 }
 
@@ -830,8 +831,7 @@ header nav .form i {
   color: black;
   border: 1px solid black;
 }
-.pricing .plans .plan .foot a:active,
-.pricing .plans .plan .foot a:visited {
+.pricing .plans .plan .foot a:active {
   border: 1px solid var(--main-color);
   background-color: green;
   color: white;
